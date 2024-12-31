@@ -38,3 +38,7 @@ Jeremy Brown
 
 # Tests
 By following the prompts in the command line, you can perform many different tasks depending on the unique vehicle you choose. 
+
+# License
+Node.js for system interactions
+Inquirer.js for command line prompts
