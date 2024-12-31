@@ -1,7 +1,7 @@
 # Vehicle Acitvity and Tasks
 
 ## Description
-This application allows users to create and interact with a vehicle of their choosing. You will be able to use your creative mind to create and play with many capabilities within this application. This is done in the command line using Node.js and the inquirer package. Here's a link to the video file to make it simplier to understand how to properly use the app: 
+This application allows users to create and interact with a vehicle of their choosing. You will be able to use your creative mind to create and play with many capabilities within this application. This is done in the command line using Node.js and the inquirer package. Here's a link to the video file to make it simplier to understand how to properly use the app: https://drive.google.com/file/d/1uzZkwafBnzl30ihtE0fGCaO5Y3CsAs1I/view
 
 ## Table Of Contents
 * [Description](#description)
